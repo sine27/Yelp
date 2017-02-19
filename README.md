@@ -32,6 +32,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/sine27/Yelp/blob/master/demo.gif' width='270' alt='Video Walkthrough' />
 
+<img src='https://github.com/sine27/Yelp/blob/master/Autolayout.png' width='400' alt='Video Walkthrough' />
+
+<img src='https://github.com/sine27/Yelp/blob/master/Autolayout2.png' width='400' alt='Video Walkthrough' />
+
 ## Notes
 
 Describe any challenges encountered while building the app.
